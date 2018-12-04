@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServantSoftware.FolderLister", "ServantSoftware.FolderLister\ServantSoftware.FolderLister.csproj", "{393BA2A1-B3DE-40C5-A893-2C5F5E881798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServantSoftware.Tests.FolderLister", "ServantSoftware.Tests.FolderLister\ServantSoftware.Tests.FolderLister.csproj", "{96357B19-9B37-45E6-B6EE-A976E48C9D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393BA2A1-B3DE-40C5-A893-2C5F5E881798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393BA2A1-B3DE-40C5-A893-2C5F5E881798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393BA2A1-B3DE-40C5-A893-2C5F5E881798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393BA2A1-B3DE-40C5-A893-2C5F5E881798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96357B19-9B37-45E6-B6EE-A976E48C9D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96357B19-9B37-45E6-B6EE-A976E48C9D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96357B19-9B37-45E6-B6EE-A976E48C9D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96357B19-9B37-45E6-B6EE-A976E48C9D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF9DD256-F623-4210-9F0E-867291A85087}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\bin\Debug\netcoreapp2.1\ServantSoftware.FolderLister.deps.json
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\bin\Debug\netcoreapp2.1\ServantSoftware.FolderLister.dll
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\bin\Debug\netcoreapp2.1\ServantSoftware.FolderLister.pdb
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\obj\Debug\netcoreapp2.1\ServantSoftware.FolderLister.csprojAssemblyReference.cache
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\obj\Debug\netcoreapp2.1\ServantSoftware.FolderLister.csproj.CoreCompileInputs.cache
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\obj\Debug\netcoreapp2.1\ServantSoftware.FolderLister.AssemblyInfoInputs.cache
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\obj\Debug\netcoreapp2.1\ServantSoftware.FolderLister.AssemblyInfo.cs
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\obj\Debug\netcoreapp2.1\ServantSoftware.FolderLister.dll
+C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.FolderLister\obj\Debug\netcoreapp2.1\ServantSoftware.FolderLister.pdb
