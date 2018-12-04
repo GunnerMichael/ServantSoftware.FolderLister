@@ -14,9 +14,6 @@ variables:
 steps:
 - task: NuGetToolInstaller@0
 
-- task: DotNetCoreInstaller@0
-  inputs:
-    version: '2.2.0' # replace this value with the version that you need for your project
 
 - task: NuGetCommand@2
   inputs:
@@ -25,10 +22,5 @@ steps:
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
-
-- task: VSTest@2
-  inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
