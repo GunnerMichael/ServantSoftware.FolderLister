@@ -1,7 +1,6 @@
 C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
 C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
 C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
-C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
 C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\ServantSoftware.Tests.FolderLister.deps.json
 C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\ServantSoftware.Tests.FolderLister.runtimeconfig.json
 C:\Michael\repo\ServantSoftware.FolderLister\ServantSoftware.Tests.FolderLister\bin\Debug\netcoreapp2.1\ServantSoftware.Tests.FolderLister.runtimeconfig.dev.json
